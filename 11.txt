@@ -1,3 +1,4 @@
 a=1
 c=3
 its ok
+git merge --no-ff -m "dev" dev
