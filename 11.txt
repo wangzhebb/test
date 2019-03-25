@@ -1,3 +1,6 @@
 a=1
 c=3
 its ok
+--squash：压缩其它分支为一个版本
+--no-ff：not fast forward，保留分支信息
+ff：主线和分支合并成一条线
