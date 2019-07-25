@@ -1,1 +1,13 @@
 ﻿new line
+import java.util.Scanner
+class hello
+{
+	public static void main(String[] args){
+	System.out.println("hello java");
+}
+}
+class test{
+private int a;
+
+
+}
