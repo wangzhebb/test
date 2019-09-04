@@ -7,7 +7,8 @@ class hello
 }
 }
 class test{
-private int a;
+private String name;
+pirvate int age
 
 
 }
